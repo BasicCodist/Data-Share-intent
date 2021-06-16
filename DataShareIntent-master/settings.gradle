@@ -1,0 +1,2 @@
+rootProject.name = "DataShareIntent-Master"
+include ':app'
